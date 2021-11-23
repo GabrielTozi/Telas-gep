@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tela principal", "Tela principal\Tela principal.csproj", "{82F650CC-976C-4673-860C-6C60CDB9CD7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aluno", "Aluno\Aluno.csproj", "{07F84495-A904-47AD-8302-DA8B6AA466D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Relatorio", "Relatorio\Relatorio.csproj", "{5DE123E0-B8D7-4A94-B11E-EFFC4D798D92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82F650CC-976C-4673-860C-6C60CDB9CD7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82F650CC-976C-4673-860C-6C60CDB9CD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82F650CC-976C-4673-860C-6C60CDB9CD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82F650CC-976C-4673-860C-6C60CDB9CD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F84495-A904-47AD-8302-DA8B6AA466D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F84495-A904-47AD-8302-DA8B6AA466D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F84495-A904-47AD-8302-DA8B6AA466D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F84495-A904-47AD-8302-DA8B6AA466D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DE123E0-B8D7-4A94-B11E-EFFC4D798D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE123E0-B8D7-4A94-B11E-EFFC4D798D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE123E0-B8D7-4A94-B11E-EFFC4D798D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE123E0-B8D7-4A94-B11E-EFFC4D798D92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1FDE5356-3A6C-43A1-9E90-A62457ACE9D2}
+	EndGlobalSection
+EndGlobal
